@@ -14,7 +14,8 @@ Also im new to coding so be gentile, its probably a mess.
 
 
 ![NeverMISSile1](https://github.com/LillithUitra/NeverMISSile/assets/153958647/3a001a42-7006-4647-9057-6dda7f9f9d52)
-![NeverMISSile1](https://github.com/LillithUitra/NeverMISSile/assets/153958647/3a001a42-7006-4647-9057-6dda7f9f9d52)
+![NeverMISSile2](https://github.com/LillithUitra/NeverMISSile/assets/153958647/141b08fe-aac0-4b0c-a994-d7f2ea7833bd)
+
 
 
 Short explanation:
