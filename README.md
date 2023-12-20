@@ -20,6 +20,9 @@ Also im new to coding so be gentile, its probably a mess.
 
 Short explanation:
 Step 1: Select ammo
+
 Step 2: Enter Speed and Sig Radius
+
 Step 3: Is it faction ammo? (Caldari navy, Gueristas, etc) Then tick the checkbox!
+
 Step 4: Voila! Thats your application on the target and the Percentage of your Missile DPS that will apply. (Now simply do some quick maths and youll have the exact damage, before resists, that you will cause)
